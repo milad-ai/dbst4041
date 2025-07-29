@@ -1,10 +1,8 @@
 instructors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
-
+  - name: Milad Vazan
+    profile_pic: /_images/pp/milad.jpg
+    webpage: miladai.ir
+<!---
 teaching_assistants:
   - name: Harry Potter
     profile_pic: /_images/pp/potter.jpg
@@ -17,3 +15,5 @@ teaching_assistants:
   - name: Ron Weasley
     profile_pic: /_images/pp/weasley.jpg
     webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+
+    -->
