@@ -6,14 +6,14 @@ course_semester: "1404_1"
 baseurl: "/dbcs4041" # the subpath of your site, e.g. /blog/
 url: "http://miladai.ir/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
+schoolname: "Shahid Beheshti University"
+schoolurl: "https://mathsci.sbu.ac.ir/"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Shahid Beheshti University
+    Tehran
+    IRAN
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
