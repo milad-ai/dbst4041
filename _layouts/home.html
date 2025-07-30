@@ -32,20 +32,25 @@ layout: default
                 <p>{{site.data.people.instructor.name}}</p>
             </div> -->
 
-            <div class="profile-pic-gallary ">
-                <h2>Instructors</h2>
-                {% for ins in site.data.people.instructors %}
-                <div class="image--cover-container">
-                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ins.webpage %}
-                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
-                    {% else %}
-                    <p>{{ins.name}}</p>
-                    {% endif %}
-                </div>
-                {% endfor %}
-            </div>
+<div class="profile-pic-gallary">
+    <h2>Instructors</h2>
+    {% for ins in site.data.people.instructors %}
+    <div class="image--cover-container">
+        <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+        {% if ins.webpage %}
+        <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+        {% else %}
+        <p>{{ins.name}}</p>
+        {% endif %}
+        
+        {% if ins.bio %}
+        <div class="instructor-bio">
+            {{ ins.bio | markdownify }}
         </div>
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>
 
         <div style="width:65%; float: left">
             <div class="profile-pic-gallary ">
