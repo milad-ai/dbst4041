@@ -4,7 +4,7 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+{% include image.html url="/_images/db7-cover.jpg" width=175 align="right" %}
 
 ## **Textbooks/Materials**
 
