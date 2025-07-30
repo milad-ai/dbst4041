@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-> Once these foundational concepts are well understood, the course transitions to more advanced topics in data. These include performing data analysis on real datasets using SQL, integrating SQL with Python for enhanced data manipulation and querying, and comparing NoSQL databases such as MongoDB with traditional relational systems.
-
 
 # Syllabus
 
