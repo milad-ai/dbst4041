@@ -33,7 +33,7 @@ Please follow the instructions to turn in your homework:
 - Files should be named according to the following scheme:
    - HW<2-digits homework number>\_\<LastName>\_\<FirstName>.pdf.
    - For instance, my first homework would be called HW01_Vazan_Milad.pdf.
-- Email your homework to **vazan.sbu@gmail.com**
+- Email your homework to **hw@dbcs.ir**
 
 ## **Exams**
 
