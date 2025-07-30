@@ -24,8 +24,6 @@ layout: home
 - There will be several assignments throughout the course for students to practice the material covered.
 - There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole.
 
-
-
 ## **Homework Assignments**
 
 Throughout the course, students will complete several homework assignments aimed at reinforcing the concepts covered in lectures and reading materials (See the [homework page](https://dbcs.ir/assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
