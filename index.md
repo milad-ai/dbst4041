@@ -5,7 +5,6 @@ layout: home
 
 
 # Syllabus
-**Download the [syllabus](Syllabus.pdf)** **(Farsi)** or [Online](https://dbcs.ir/syllabus_fa.html) 
 
 ### Learning Goals
 
