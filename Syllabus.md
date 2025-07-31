@@ -11,7 +11,7 @@ permalink: /Syllabus/
 - There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole.
 
 
-### Learning Goals
+## Learning Goals
 
  Upon successful completion of this course, the student will be able to:
 
