@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Syllabus
+# [Syllabus](https://dbcs.ir/Syllabus/)
 
 
 
