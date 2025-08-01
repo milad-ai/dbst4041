@@ -28,12 +28,7 @@ Upon successful completion of this course, the student will be able to:
 - Formulate SQL queries effectively for data retrieval and manipulation.  
 - Utilize normalization techniques to enhance database design.  
 - Distinguish between SQL and NoSQL database systems.
-
-By the end of this course, students will be prepared to:
-
-- Design, implement, and optimize database systems for small to medium-scale projects.  
 - Perform **data extraction, transformation, and visualization** to support business decisions.  
-- Understand the landscape of modern database technologies and apply them to AI, analytics, and application development.
 
 The primary hands-on environment will be **PostgreSQL**, supplemented by **DuckDB, Marimo notebooks, and Power BI**, providing both industry-standard and cutting-edge perspectives on database management.
 
