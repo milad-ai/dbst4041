@@ -73,6 +73,20 @@ You are encouraged to use Generative AI tools like ChatGPT for general coding-re
 3. What are the differences between INNER JOIN and LEFT JOIN in SQL?
 4. What libraries are available for connecting Python to PostgreSQL?
 
+## **Required Tools and Accounts**
+
+To successfully participate in this course, students are expected to prepare the following tools and accounts prior to the practical sessions:
+
+- **Python**: Install the latest stable version of Python for running scripts and interacting with databases.  
+- **GitHub Account**: Create a GitHub account.
+- **Streamlit Account and GitHub Integration**: Link your GitHub account to Streamlit to deploy database-driven web applications.  
+- **PostgreSQL**
+- **DuckDB**: Install DuckDB for lightweight, embedded database tasks and analytical queries.  
+- **Marimo**: This will be used as the primary environment for interactive notebooks and coding sessions.
+
+### **Hardware Requirement**
+
+For the SQL and practical sessions, students will need **a laptop or a smartphone** to follow along and complete in-class exercises.
 
 ## **Related Courses**
 ### Other Databases courses 
