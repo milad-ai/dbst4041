@@ -90,7 +90,7 @@ For any issues at all, please reach out to the instructor:
 
 You are encouraged to discuss the content of this course with anyone you like; however, it is essential to **maintain academic integrity** in your work. All homework assignments, projects, and exams must be completed independently, meaning you are not permitted to copy any part of another student’s solution, collaborate with others on your assignments, or use solutions from unauthorized sources, including the Internet. **Therefore, the solution you submit for each assignment must be solely your own, reflecting your understanding and effort.**
 
-# Generative AI Usage Guidelines
+## **Generative AI Usage Guidelines**
 
 ## 1. Purpose of These Guidelines
 Generative AI tools (e.g., ChatGPT, GitHub Copilot, Claude) can support your learning by explaining concepts, suggesting code examples, and offering design guidance. However, the **primary goal of this course** is for you to personally develop the skills, not rely solely on ready-made answers. These guidelines ensure deep learning, academic honesty, and ethical use.
