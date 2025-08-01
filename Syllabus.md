@@ -79,17 +79,19 @@ To successfully participate in this course, students are expected to prepare the
 
 - **Python**: [Install](https://www.python.org/downloads/) the latest stable version of Python for running scripts and interacting with databases.  
 - **GitHub Account**: Create a [GitHub](https://github.com/) account.
-- **Streamlit Account and GitHub Integration**: Link your GitHub account to [Streamlit](https://share.streamlit.io/) to deploy database-driven web applications.  
+- **Streamlit Account and GitHub Integration**: Link your GitHub account to [Streamlit](https://share.streamlit.io/) to deploy database-driven web applications.
+- **[Visual Studio Code](https://code.visualstudio.com/download)**
 - **[PostgreSQL](https://www.postgresql.org/download/)**
-- **DuckDB**: Install DuckDB for lightweight, embedded database tasks and analytical queries.  
+- **DuckDB**: Install DuckDB for lightweight, embedded database tasks and analytical queries.
+- **[Power BI](https://powerbi.microsoft.com/)**: Used for data visualization and creating interactive dashboards to analyze database results. 
 - **Marimo**: This will be used as the primary environment for interactive notebooks and coding sessions.
   > pip install "marimo[recommended]"
 - **Pandas**:
   > pip install pandas
 - **PySpark**:
   > pip install pyspark
-- **[Visual Studio Code](https://code.visualstudio.com/download)**
-- **[Power BI](https://powerbi.microsoft.com/)**: Used for data visualization and creating interactive dashboards to analyze database results.  
+
+ 
 
 ### **Hardware Requirement**
 
