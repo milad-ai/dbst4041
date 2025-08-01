@@ -86,6 +86,7 @@ To successfully participate in this course, students are expected to prepare the
 - **Pandas**: pip install pandas
 - **PySpark**: pip install pyspark
 - **[Visual Studio Code](https://code.visualstudio.com/download)**
+- **[Power BI](https://powerbi.microsoft.com/)**: Used for data visualization and creating interactive dashboards to analyze database results.  
 
 ### **Hardware Requirement**
 
