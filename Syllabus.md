@@ -4,18 +4,41 @@ title: Syllabus
 permalink: /Syllabus/
 ---
 # **Course Objectives**
-This course covers the fundamentals of database management, including conceptual and logical design, as well as access and manipulation of databases, and introduces students to best practices in modeling, design, and implementation using contemporary database management systems in organizations. Students will learn how to develop database applications, beginning with the design of an Entity-Relationship (ER) model, then mapping it to a relational model, and finally transforming this second model into an application. Throughout this course, students will not only acquire theoretical knowledge but also essential practical skills for working with database systems. In the practical section of the course, PostgreSQL will be utilized as a powerful and open-source database management system.
+This course provides a comprehensive introduction to **database management systems (DBMS)** and their role in modern data-driven applications. It covers the **fundamentals of database theory**, **conceptual and logical design**, and **data access and manipulation** while emphasizing **best practices** for modeling, implementation, and optimization.
 
+Students will gain proficiency in **relational database concepts** through **Entity-Relationship (ER) modeling**, mapping ER diagrams to **relational schemas**, applying **normalization techniques**, and formulating complex **SQL queries** for real-world analytical tasks.
 
-## **Learning Goals**
+Beyond the fundamentals, the course introduces **modern trends and tools** in database management, such as:
 
- Upon successful completion of this course, the student will be able to:
+- **Embedded and analytical databases** (e.g., DuckDB) for fast local processing.  
+- **Big Data frameworks** (e.g., PySpark) for large-scale data analytics.  
+- **Vector Databases** and their role in **AI-driven semantic search** and **retrieval-augmented generation (RAG)**.  
+- **Integration with visualization tools** (Power BI) and **web applications** (Streamlit) for presenting insights interactively.
 
-- Introduce fundamental concepts, terminology, and applications of databases.
-- Design ER models for simple applications and convert them into relational tables.
-- Formulate SQL queries effectively for data retrieval and manipulation.
-- Utilize normalization techniques to enhance database design.
+Throughout the course, students will:
+
+- Build and deploy database applications starting from conceptual design to functional prototypes.  
+- Learn to connect databases with **Python** and perform **data analysis with Pandas and PySpark**.  
+- Explore **security, privacy, and ethical considerations** in handling data.  
+- Compare relational approaches with **NoSQL** paradigms and understand their trade-offs.
+
+Upon successful completion of this course, the student will be able to:
+
+- Introduce fundamental concepts, terminology, and applications of databases.  
+- Design ER models for simple applications and convert them into relational tables.  
+- Formulate SQL queries effectively for data retrieval and manipulation.  
+- Utilize normalization techniques to enhance database design.  
 - Distinguish between SQL and NoSQL database systems.
+
+By the end of this course, students will be prepared to:
+
+- Design, implement, and optimize database systems for small to medium-scale projects.  
+- Perform **data extraction, transformation, and visualization** to support business decisions.  
+- Understand the landscape of modern database technologies and apply them to AI, analytics, and application development.
+
+The primary hands-on environment will be **PostgreSQL**, supplemented by **DuckDB, Marimo notebooks, and Power BI**, providing both industry-standard and cutting-edge perspectives on database management.
+
+In the final project, students will design and implement a complete database system from conceptual modeling to relational implementation, accompanied by an interactive analytical dashboard and a simple web application for data exploration and reporting.
 
 ## **Homework Assignments**
 
