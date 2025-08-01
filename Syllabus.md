@@ -83,6 +83,9 @@ To successfully participate in this course, students are expected to prepare the
 - **PostgreSQL**
 - **DuckDB**: Install DuckDB for lightweight, embedded database tasks and analytical queries.  
 - **Marimo**: This will be used as the primary environment for interactive notebooks and coding sessions.
+- **Pandas**: This library will be used for data manipulation and also for comparing and validating results obtained from SQL queries.
+- **PySpark**
+- **Visual Studio Code**
 
 ### **Hardware Requirement**
 
