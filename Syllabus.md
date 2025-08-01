@@ -150,7 +150,6 @@ Please **do not** use generative AI tools for the following:
 
 ### 5.1 Acceptable Questions
 - “How can I remove duplicate records in SQL?”
-- “How do I handle a `database connection timeout` error in Python?”
 - “What is the difference between INNER JOIN and LEFT JOIN in SQL?”
 - “What visualization tools are available in Python that are similar to Power BI?”
 - “Is there a more efficient way to normalize this database schema?”
