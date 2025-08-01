@@ -16,20 +16,14 @@ Beyond the fundamentals, the course introduces **modern trends and tools** in da
 - **Integration with visualization tools** (Power BI) and **web applications** (Streamlit) for presenting insights interactively.
 - **API development** for exposing database functionality and enabling programmatic access to data.
 
-
-Throughout the course, students will:
-
-- Build and deploy database applications starting from conceptual design to functional prototypes.  
-- Learn to connect databases with **Python** and perform **data analysis with Pandas and PySpark**.  
-- Compare relational approaches with **NoSQL** paradigms and understand their trade-offs.
-
 Upon successful completion of this course, the student will be able to:
 
 - Introduce fundamental concepts, terminology, and applications of databases.  
 - Design ER models for simple applications and convert them into relational tables.  
 - Formulate SQL queries effectively for data retrieval and manipulation.  
 - Utilize normalization techniques to enhance database design.  
-- Distinguish between SQL and NoSQL database systems.
+- Compare relational approaches with **NoSQL** paradigms and understand their trade-offs.
+- Learn to connect databases with **Python** and perform **data analysis with Pandas and PySpark**.  
 - Perform **data extraction, transformation, and visualization** to support business decisions.
 - Build basic **APIs** to expose and integrate database functionalities into external applications.
 
