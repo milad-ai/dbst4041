@@ -77,15 +77,15 @@ You are encouraged to use Generative AI tools like ChatGPT for general coding-re
 
 To successfully participate in this course, students are expected to prepare the following tools and accounts prior to the practical sessions:
 
-- **Python**: (Install)[https://www.python.org/downloads/] the latest stable version of Python for running scripts and interacting with databases.  
-- **GitHub Account**: Create a (GitHub)[https://github.com/] account.
-- **Streamlit Account and GitHub Integration**: Link your GitHub account to (Streamlit)[https://share.streamlit.io/] to deploy database-driven web applications.  
-- **(PostgreSQL)[https://www.postgresql.org/download/]**
+- **Python**: [Install](https://www.python.org/downloads/) the latest stable version of Python for running scripts and interacting with databases.  
+- **GitHub Account**: Create a [GitHub](https://github.com/) account.
+- **Streamlit Account and GitHub Integration**: Link your GitHub account to [Streamlit](https://share.streamlit.io/) to deploy database-driven web applications.  
+- **[PostgreSQL](https://www.postgresql.org/download/)**
 - **DuckDB**: Install DuckDB for lightweight, embedded database tasks and analytical queries.  
 - **Marimo**: This will be used as the primary environment for interactive notebooks and coding sessions. pip install "marimo[recommended]"
 - **Pandas**: pip install pandas
 - **PySpark**: pip install pyspark
-- **(Visual Studio Code)[https://code.visualstudio.com/download]**
+- **[Visual Studio Code](https://code.visualstudio.com/download)**
 
 ### **Hardware Requirement**
 
