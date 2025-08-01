@@ -95,7 +95,7 @@ You are encouraged to discuss the content of this course with anyone you like; h
 ## 1. Purpose of These Guidelines
 Generative AI tools (e.g., ChatGPT, GitHub Copilot, Claude) can support your learning by explaining concepts, suggesting code examples, and offering design guidance. However, the **primary goal of this course** is for you to personally develop the skills, not rely solely on ready-made answers. These guidelines ensure deep learning, academic honesty, and ethical use.
 
----
+
 
 ## 2. Allowed Uses
 You are encouraged to use generative AI tools for the following purposes:
@@ -121,7 +121,7 @@ You are encouraged to use generative AI tools for the following purposes:
 - **Learning Through Simple Examples**  
   Understanding patterns and structures without requesting final answers to assignments.
 
----
+
 
 ## 3. Prohibited Uses
 Please **do not** use generative AI tools for the following:
@@ -138,13 +138,13 @@ Please **do not** use generative AI tools for the following:
 - **Using AI as the Only Source**  
   Ignoring course notes, lectures, and official documentation.
 
----
+
 
 ## 4. Transparency and Academic Integrity
 - If you used generative AI in your work, **disclose it clearly** and explain how you used it (e.g., “I used ChatGPT to help explain a SQL error”).  
 - Any misuse (e.g., submitting AI-generated answers as your own) violates academic honesty policies and may result in disciplinary action.
 
----
+
 
 ## 5. Examples
 
@@ -161,14 +161,11 @@ Please **do not** use generative AI tools for the following:
 - “Optimize this exact query from my homework and give me the final answer.”
 - “Provide me with a ready-to-submit file for this task.”
 
----
 
 ## 6. Best Practices for Using Generative AI
 - Treat AI responses as **guidance**, not final solutions.  
 - Use AI to **enhance your understanding**, not replace your own problem-solving.  
 - Ensure **progressive learning**: try solving on your own first, then use AI for clarification.
-
----
 
 
 
