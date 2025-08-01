@@ -19,7 +19,6 @@ Throughout the course, students will:
 
 - Build and deploy database applications starting from conceptual design to functional prototypes.  
 - Learn to connect databases with **Python** and perform **data analysis with Pandas and PySpark**.  
-- Explore **security, privacy, and ethical considerations** in handling data.  
 - Compare relational approaches with **NoSQL** paradigms and understand their trade-offs.
 
 Upon successful completion of this course, the student will be able to:
