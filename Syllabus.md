@@ -82,7 +82,7 @@ To successfully participate in this course, students are expected to prepare the
 - **Streamlit Account and GitHub Integration**: Link your GitHub account to (Streamlit)[https://share.streamlit.io/] to deploy database-driven web applications.  
 - **(PostgreSQL)[https://www.postgresql.org/download/]**
 - **DuckDB**: Install DuckDB for lightweight, embedded database tasks and analytical queries.  
-- **Marimo**: This will be used as the primary environment for interactive notebooks and coding sessions.
+- **Marimo**: This will be used as the primary environment for interactive notebooks and coding sessions. pip install "marimo[recommended]"
 - **Pandas**: pip install pandas
 - **PySpark**: pip install pyspark
 - **(Visual Studio Code)[https://code.visualstudio.com/download]**
