@@ -3,13 +3,6 @@ layout: page
 title: Exams
 permalink: /exams/
 ---
----
-layout: page
-title: Exams
-permalink: /exams/
----
-
-# Exams
 
 ## Midterm Exam
 - **Date:** */*/1404 
