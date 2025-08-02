@@ -44,18 +44,18 @@ In the final project, students will design and implement a complete database sys
 
 ## **Homework Assignments**
 
-Throughout the course, students will complete several homework assignments aimed at reinforcing the concepts covered in lectures and reading materials (See the [homework page](https://dbcs.ir/assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
+Throughout the course, students will complete several homework assignments aimed at reinforcing the concepts covered in lectures and reading materials (See the [homework page](https://statdb.ir/assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
 
 Please follow the instructions to turn in your homework:
 - Homeworks must be submitted electronically as PDF files.
 - Files should be named according to the following scheme:
    - HW<2-digits homework number>\_\<LastName>\_\<FirstName>.pdf.
    - For instance, my first homework would be called HW01_Vazan_Milad.pdf.
-- 📧 Email your homework to **hw@dbcs.ir**
+- 📧 Email your homework to **hw@statdb.ir**
 
 ## **Exams**
 
-The course will include **two exams**. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" [midterm](https://dbcs.ir//exams), while the second will be a [final exam](https://dbcs.ir//exams) scheduled during the University's final examination period at the end of the semester.
+The course will include **two exams**. Both exams will assess the required readings and topics covered in class. The first exam will be an "in-class" [midterm](https://statdb.ir/exams), while the second will be a [final exam](https://statdb.ir/exams) scheduled during the University's final examination period at the end of the semester.
 
 **If you need to miss the midterm test due to illness or a family affliction, please contact me by email. A make-up exam for the midterm might be organized.**
 {: 	.text-green-200 }
