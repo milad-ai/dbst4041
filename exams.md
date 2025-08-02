@@ -5,7 +5,7 @@ permalink: /exams/
 ---
 
 ## Midterm Exam
-- **Date:** _/_/1404 
+- **Date:** _._1404 
 - **Weight:** 3 points  
 - **Chapters Covered:**  
   - Chapter _
@@ -14,7 +14,7 @@ permalink: /exams/
 ---
 
 ## Final Exam
-- **Date:** _/_/1404
+- **Date:** _._.1404
 - **Weight:** 5 points  
 - **Chapters Covered:**  
   - Chapter _
