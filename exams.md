@@ -1,5 +1,5 @@
 ---
-layout: lectures
+layout: exams
 title: Exams
 permalink: /exams/
 ---
