@@ -26,3 +26,8 @@ items:
 - url: /materials/
   name: Materials
   icon_class: fas fa-book
+
+- url: /exams/
+  name: exams
+  icon_class: fas fa-book-reader
+
