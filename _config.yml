@@ -1,8 +1,8 @@
 # Site settings
 course_name: Database
-course_semester: "1404_1 | Computer science"
+course_semester: "1404_1 | Statistics"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://dbcs4041.miladai.ir/" # the base hostname & protocol for your site
+url: "http://statdb.ir/" # the base hostname & protocol for your site
 
 schoolname: "Shahid Beheshti University"
 schoolurl: "https://mathsci.sbu.ac.ir/"
