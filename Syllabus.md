@@ -40,6 +40,11 @@ By the end of this course, students will:
 
 
 # **Weekly Course Outline**
+> [!NOTE]
+> **Important:**  
+> The weekly topics may be subject to minor adjustments. Some topics might be added, removed, or shifted slightly during the course based on class progress and feedback.
+
+
 
 ## **Introduction to Databases and Data Concepts**
 - Course structure, grading, and project overview.  
