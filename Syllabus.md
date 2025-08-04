@@ -49,7 +49,7 @@ By the end of this course, students will:
 ## **Introduction to Databases and Data Concepts**
 - Course structure, grading, and project overview.  
 - Introduction to **data and data analysis**: structured vs unstructured data.  
-- Overview of **big data** and its characteristics (Volume, Velocity, Variety, Veracity).  
+- Overview of **big data** and its characteristics. 
 - Types of data analytics: **descriptive, diagnostic, predictive, prescriptive**.  
 - Definition and purpose of **database management systems (DBMS)**.  
 - Basic database terminology (tables, rows, columns, keys).  
@@ -61,15 +61,8 @@ By the end of this course, students will:
 - Introduction to **Entity-Relationship (ER) modeling)**.  
 - Entities, attributes, relationships, and cardinality.  
 - Conceptual modeling for real-world datasets.  
-
----
-
-## **Advanced ER Modeling**
-- Weak entities and composite attributes.  
+- Weak entities and composite attributes. 
 - Multi-valued attributes and derived attributes.  
-- Mapping business rules into ER diagrams.  
-- Introduction to **ER diagram tools** (e.g., Draw.io, Lucidchart).  
-
 ---
 
 ## **Relational Model and Mapping ER to Relational Schema**
