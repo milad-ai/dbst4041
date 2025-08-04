@@ -3,44 +3,46 @@ layout: page
 title: Syllabus
 permalink: /Syllabus/
 ---
+# **Course Overview**
+
+This course bridges **data analysis** and **database management systems (DBMS)**, focusing on both the **design** of relational databases and their use in **modern analytical workflows**. Students will learn how to structure data, query it efficiently, and perform local analytics with modern tools.
+
+The course is structured into **two main parts**:
+
+1. **Database Design and SQL with PostgreSQL**
+   - Fundamentals of **Entity-Relationship (ER) modeling** and converting ER diagrams into **relational schemas**.  
+   - Writing **basic to advanced SQL queries** for data retrieval, manipulation, and aggregation.  
+   - Implementing database designs using **PostgreSQL** for reliable and scalable data management.  
+
+2. **Data Analysis and Local Analytics with DuckDB**
+   - Performing **analytical workflows** using **DuckDB** for fast, local data exploration.  
+   - Importing, cleaning, and analyzing **real datasets (CSV, Parquet)** directly from storage.  
+   - Integrating with **Python (Pandas)** and visualization tools for in-depth data insights.  
+   - Understanding the difference between **analytical (OLAP)** and **transactional (OLTP)** databases in practical applications.  
+
+---
+
 # **Course Objectives**
-This course provides a comprehensive introduction to **database management systems (DBMS)** and their role in modern data-driven applications. It covers the **fundamentals of database theory**, **conceptual and logical design**, and **data access and manipulation** while emphasizing **best practices** for modeling, implementation, and optimization.
 
-Students will gain proficiency in **relational database concepts** through **Entity-Relationship (ER) modeling**, mapping ER diagrams to **relational schemas**, applying **normalization techniques**, and formulating complex **SQL queries** for real-world analytical tasks.
+By the end of this course, students will:  
 
-The course also introduces key **data concepts and ethical considerations**:  
+- Understand the **fundamentals of database theory** and their role in data-driven workflows.  
+- Design **ER models** and implement them as relational databases using PostgreSQL.  
+- Formulate **SQL queries** for preparing, aggregating, and transforming data.  
+- Utilize **DuckDB** for local analytics and fast exploration of datasets.  
+- Connect databases to **Python (Pandas)** for advanced data analysis and computation.  
+- Use **visualization tools (Power BI, Streamlit)** to create dashboards and present insights interactively.  
+- Gain a high-level understanding of emerging database trends, including **NoSQL databases**, **query optimization**, and **vector databases**.  
+- Deliver a **final project** that combines database design, SQL, and analytical reporting in a cohesive workflow.  
 
-- Understanding the **data hierarchy (DIKW pyramid: Data → Information → Knowledge → Wisdom)**.  
-- Introducing **bias and basic ethical issues** in working with data, along with emerging concepts such as **dataism**.  
-- Learning the **four levels of data analytics**: descriptive, diagnostic, predictive, and prescriptive.  
+---
 
-Beyond the fundamentals, the course introduces **modern trends and tools** in database management, such as:
+# **Hands-on Environment**
 
-- **Embedded and analytical databases** (e.g., DuckDB) for fast local processing.
-- **Analytical vs transactional systems**: understanding **OLAP (Online Analytical Processing)** vs **OLTP (Online Transaction Processing)**.
-- **Introduction to NoSQL databases** (e.g., MongoDB) and understanding when to choose them over relational systems.
-- **Query optimization and indexing** for improved performance in large datasets. 
-- **Big Data frameworks** (e.g., PySpark) for large-scale data analytics.  
-- **Vector Databases** and their role in **AI-driven semantic search** and **retrieval-augmented generation (RAG)**.  
-- **Integration with visualization tools** (Power BI) and **web applications** (Streamlit) for presenting insights interactively.
-- **API development** for exposing database functionality and enabling programmatic access to data.
-
-Upon successful completion of this course, the student will be able to:
-
-- Introduce fundamental concepts, terminology, and applications of databases.  
-- Design ER models for simple applications and convert them into relational tables.
-- Differentiate between **OLAP and OLTP systems** and understand their real-world use cases.
-- Formulate SQL queries effectively for data retrieval and manipulation.  
-- Utilize normalization techniques to enhance database design.  
-- Compare relational approaches with **NoSQL** paradigms and understand their trade-offs.
-- Learn to connect databases with **Python** and perform **data analysis with Pandas and PySpark**.  
-- Perform **data extraction, transformation, and visualization** to support business decisions.
-- Build basic **APIs** to expose and integrate database functionalities into external applications.
-
-
-The primary hands-on environment will be **PostgreSQL**, supplemented by **DuckDB, Marimo notebooks, and Power BI**, providing both industry-standard and cutting-edge perspectives on database management.
-
-In the final project, students will design and implement a complete database system from conceptual modeling to relational implementation, accompanied by an interactive analytical dashboard and a simple web application for data exploration and reporting.
+- **PostgreSQL**: For relational database design and SQL practice.  
+- **DuckDB**: For local analytics and fast data exploration.  
+- **Python (Pandas)**: For data cleaning and analysis.  
+- **Power BI / Streamlit**: For visualization and interactive reporting.
 
 ## **Homework Assignments**
 
