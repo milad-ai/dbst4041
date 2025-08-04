@@ -20,8 +20,6 @@ The course is structured into **two main parts**:
    - Integrating with **Python (Pandas)** and visualization tools for in-depth data insights.  
    - Understanding the difference between **analytical (OLAP)** and **transactional (OLTP)** databases in practical applications.  
 
----
-
 # **Course Objectives**
 
 By the end of this course, students will:  
@@ -33,8 +31,6 @@ By the end of this course, students will:
 - Connect databases to **Python (Pandas)** for advanced data analysis and computation.  
 - Use **visualization tools (Power BI, Streamlit)** to create dashboards and present insights interactively.  
 - Deliver a **final project** that combines database design, SQL, and analytical reporting in a cohesive workflow.  
-
----
 
 # **Hands-on Environment**
 
