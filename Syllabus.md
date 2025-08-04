@@ -32,7 +32,6 @@ By the end of this course, students will:
 - Utilize **DuckDB** for local analytics and fast exploration of datasets.  
 - Connect databases to **Python (Pandas)** for advanced data analysis and computation.  
 - Use **visualization tools (Power BI, Streamlit)** to create dashboards and present insights interactively.  
-- Gain a high-level understanding of emerging database trends, including **NoSQL databases**, **query optimization**, and **vector databases**.  
 - Deliver a **final project** that combines database design, SQL, and analytical reporting in a cohesive workflow.  
 
 ---
