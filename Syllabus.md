@@ -42,7 +42,8 @@ By the end of this course, students will:
 # **📚 [View Detailed Teaching Plan](https://statdb.ir/Teaching_Schedule/)↵**
 
 ## **Homework Assignments**
-
+{% include image.html url="/_images/Annotation 2025-08-04 194554.png" width=450 align="right" %}
+{% include image.html url="/_images/Annotation 2025-08-05 113141.png" width=450 align="right" %}
 Throughout the course, students will complete several homework assignments aimed at reinforcing the concepts covered in lectures and reading materials (See the [homework page](https://statdb.ir/assignments/), which will be updated during the course). The due dates for these assignments will be posted on this website.
 
 Please follow the instructions to turn in your homework:
@@ -67,7 +68,7 @@ The course will include **two exams**. Both exams will assess the required readi
 {: 	.text-green-200 }
 
 ## **Attendance and Participation**
-
+{% include image.html url="/_images/Annotation 2025-08-04 193843.png" width=500 align="right" %}
 **Attendance is required**, and exceeding four absences may result in a penalty of up to 2 points off your total grade. Active participation in both in-class activities and the online message board is highly encouraged.
 
 # **Grading**
