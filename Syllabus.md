@@ -39,7 +39,7 @@ By the end of this course, students will:
 - **Power BI / Streamlit**: For visualization and interactive reporting.
 
 
-# **Weekly Course Outline**
+# **📚 [View Detailed Teaching Plan](https://statdb.ir/Teaching_Schedule/)↵**
 
 ## **Homework Assignments**
 
