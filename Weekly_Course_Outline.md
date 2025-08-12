@@ -10,12 +10,13 @@ permalink: /Teaching_Schedule/
 
 
 ## **Introduction to Databases and Data Concepts**
-- Course structure, grading, and project overview.  
-- Introduction to **data and data analysis**: structured vs unstructured data.  
-- Overview of **big data** and its characteristics. 
-- Types of data analytics: **descriptive, diagnostic, predictive, prescriptive**.  
-- Definition and purpose of **database management systems (DBMS)**.  
-- Basic database terminology (tables, rows, columns, keys).  
+- Overview of course structure, grading, and final project.
+- Role of databases in data-driven applications.
+- Data types: structured, semi-structured, unstructured.
+- **DIKW pyramid** (Data → Information → Knowledge → Wisdom).
+- Levels of data analytics: descriptive, diagnostic, predictive, prescriptive.
+- Ethical considerations and bias in data.
+- Basic database terminology (tables, rows, columns, keys). 
 
 
 ## **Overview of Database Models and ER Design**
