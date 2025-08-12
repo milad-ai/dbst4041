@@ -6,10 +6,11 @@ items:
 - url: /Syllabus/
   name: Syllabus
   icon_class: fas fa-book-reader 
-  
-- url: /schedule/
-  name: Schedule
+
+- url: /Teaching_Schedule/
+  name: Teaching Plan
   icon_class: fas fa-calendar-alt
+
 
 - url: /lectures/
   name: Lectures
@@ -31,3 +32,10 @@ items:
   name: exams
   icon_class: fas fa-book-reader
 
+- url: /schedule/
+  name: Schedule
+  icon_class: fas fa-calendar-alt
+
+- url: /AI_Guidelines/
+  name: Generative AI Usage Guidelines
+  icon_class: fas fa-book
