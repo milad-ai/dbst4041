@@ -17,7 +17,6 @@ permalink: /Teaching_Schedule/
 - Definition and purpose of **database management systems (DBMS)**.  
 - Basic database terminology (tables, rows, columns, keys).  
 
----
 
 ## **Overview of Database Models and ER Design**
 - Types of database models: hierarchical, network, relational, NoSQL (overview).  
@@ -26,7 +25,7 @@ permalink: /Teaching_Schedule/
 - Conceptual modeling for real-world datasets.  
 - Weak entities and composite attributes. 
 - Multi-valued attributes and derived attributes.  
----
+
 
 ## **Relational Model and Mapping ER to Relational Schema**
 - Introduction to the relational model (tables, primary keys, foreign keys).  
@@ -34,7 +33,7 @@ permalink: /Teaching_Schedule/
 - Constraints and integrity rules.  
 - Example: converting an ER diagram of a sample dataset into a relational schema.  
 
----
+
 
 ## **Introduction to PostgreSQL and Basic SQL**
 - Setting up PostgreSQL and connecting via GUI/CLI.  
@@ -42,7 +41,6 @@ permalink: /Teaching_Schedule/
 - Inserting, updating, and deleting records.  
 - Simple queries: `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`.  
 
----
 
 ## **Intermediate SQL Queries**
 - Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`.  
@@ -50,7 +48,7 @@ permalink: /Teaching_Schedule/
 - Sorting and combining data with `JOIN` (inner, outer).  
 - Practical exercises on real datasets.  
 
----
+
 
 ## **Advanced SQL Queries**
 - Nested queries and subqueries.  
@@ -58,7 +56,6 @@ permalink: /Teaching_Schedule/
 - Window functions (ranking, moving averages).  
 - Query performance basics (indexes and execution plans – overview only).  
 
----
 
 ## **Introduction to Analytical Databases and DuckDB**
 - Concept of **analytical databases** and how they differ from transactional ones (OLAP vs OLTP).  
@@ -66,7 +63,6 @@ permalink: /Teaching_Schedule/
 - Setting up DuckDB and basic commands.  
 - Importing CSV and Parquet files directly into DuckDB.  
 
----
 
 ## **Data Exploration with DuckDB**
 - Querying datasets directly from storage (no ETL).  
@@ -74,7 +70,6 @@ permalink: /Teaching_Schedule/
 - Exploratory Data Analysis (EDA): summary statistics, filtering, grouping.  
 - Hands-on: analyzing a sample dataset (e.g., population or survey data).  
 
----
 
 ## **Data Cleaning and Transformation**
 - Handling missing data and outliers.  
@@ -82,7 +77,6 @@ permalink: /Teaching_Schedule/
 - Creating computed columns and derived tables.  
 - Practical: preparing a dataset for analysis.  
 
----
 
 ## **Integrating Databases with Python**
 - Connecting PostgreSQL and DuckDB with Python.  
@@ -90,14 +84,12 @@ permalink: /Teaching_Schedule/
 - Using **Pandas** for additional analysis and visualization.  
 - Simple statistical operations within Python workflows.  
 
----
 
 ## **Data Visualization and Reporting**
 - Basics of visualization tools: **Power BI** and **Streamlit**.  
 - Connecting visualization tools to DuckDB/Postgres.  
 - Building dashboards for interactive data reporting.  
 
----
 
 ## **Modern Trends in Databases (Overview)**
 - NoSQL databases and their use cases (document, key-value, graph).  
