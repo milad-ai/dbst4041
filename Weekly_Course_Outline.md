@@ -19,7 +19,6 @@ permalink: /Teaching_Schedule/
 
 
 ## **Overview of Database Models and ER Design**
-- Types of database models: hierarchical, network, relational, NoSQL (overview).  
 - Introduction to **Entity-Relationship (ER) modeling)**.  
 - Entities, attributes, relationships, and cardinality.  
 - Conceptual modeling for real-world datasets.  
@@ -65,7 +64,6 @@ permalink: /Teaching_Schedule/
 
 
 ## **Data Exploration with DuckDB**
-- Querying datasets directly from storage (no ETL).  
 - Combining DuckDB with **Pandas** for hybrid workflows.  
 - Exploratory Data Analysis (EDA): summary statistics, filtering, grouping.  
 - Hands-on: analyzing a sample dataset (e.g., population or survey data).  
@@ -76,13 +74,6 @@ permalink: /Teaching_Schedule/
 - Converting data types and formatting.  
 - Creating computed columns and derived tables.  
 - Practical: preparing a dataset for analysis.  
-
-
-## **Integrating Databases with Python**
-- Connecting PostgreSQL and DuckDB with Python.  
-- Executing queries and retrieving results programmatically.  
-- Using **Pandas** for additional analysis and visualization.  
-- Simple statistical operations within Python workflows.  
 
 
 ## **Data Visualization and Reporting**
