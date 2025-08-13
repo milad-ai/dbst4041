@@ -8,7 +8,7 @@ layout: home
 - There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole.
 
 ## [🏷️ Syllabus ↵](https://statdb.ir/Syllabus/)
-## 📚 [View Detailed Teaching Plan ↵](https://statdb.ir/Teaching_Schedule/)
+## [📚 Weekly Topics ↵](https://statdb.ir/Teaching_Schedule/)
 
 
 
