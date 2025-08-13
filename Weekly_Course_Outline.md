@@ -22,7 +22,6 @@ permalink: /Teaching_Schedule/
 ## **Overview of Database Models and ER Design (1–2 weeks)**
 - Introduction to **Entity-Relationship (ER) modeling)**.  
 - Entities, attributes, relationships, and cardinality.  
-- Conceptual modeling for real-world datasets.  
 - Weak entities and composite attributes. 
 - Multi-valued attributes and derived attributes.  
 
@@ -31,7 +30,7 @@ permalink: /Teaching_Schedule/
 - Introduction to the relational model (tables, primary keys, foreign keys).  
 - Mapping ER diagrams to relational tables.  
 - Constraints and integrity rules.  
-- Example: converting an ER diagram of a sample dataset into a relational schema.  
+- Example: converting an ER diagram of a sample database into a relational schema.  
 
 
 
@@ -45,7 +44,7 @@ permalink: /Teaching_Schedule/
 ## **Intermediate SQL Queries (2-3 weeks)**
 - Aggregate functions: `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`.  
 - Grouping data with `GROUP BY` and filtering with `HAVING`.  
-- Sorting and combining data with `JOIN` (inner, outer).  
+- Sorting and combining data with `JOIN`.
 - Practical exercises on real datasets.  
 
 
@@ -53,8 +52,8 @@ permalink: /Teaching_Schedule/
 ## **Advanced SQL Queries (2-3 weeks)**
 - Nested queries and subqueries.  
 - Set operations: `UNION`, `INTERSECT`, `EXCEPT`.  
-- Window functions (ranking, moving averages).  
-- Query performance basics (indexes and execution plans – overview only).  
+- Window functions. 
+- Query performance basics (indexes – overview only).  
 
 
 ## **Introduction to Analytical Databases and DuckDB (1 week)**
