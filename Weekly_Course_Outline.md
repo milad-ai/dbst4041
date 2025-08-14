@@ -11,12 +11,11 @@ permalink: /Teaching_Schedule/
 
 ## **Introduction to Databases and Data Concepts (1 week)** 
 - Overview of course structure, grading, and final project.
-- Role of databases in data-driven applications.
-- Data types: structured, semi-structured, unstructured.
 - **DIKW pyramid** (Data → Information → Knowledge → Wisdom).
-- Levels of data analytics: descriptive, diagnostic, predictive, prescriptive.
 - Ethical considerations and bias in data.
-- Basic database terminology (tables, rows, columns, keys). 
+- Data types: structured, semi-structured, unstructured.
+- Levels of data analytics: descriptive, diagnostic, predictive, prescriptive.
+
 
 
 ## **Overview of Database Models and ER Design (1–2 weeks)**
